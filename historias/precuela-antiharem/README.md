@@ -1,0 +1,1 @@
+Sinopsis, tono, lugar en la cronología

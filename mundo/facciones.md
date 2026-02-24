@@ -1,0 +1,1 @@
+Reinos, instituciones, grupos de poder

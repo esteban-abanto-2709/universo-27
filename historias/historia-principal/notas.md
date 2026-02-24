@@ -1,0 +1,1 @@
+Ideas sueltas de esta historia
