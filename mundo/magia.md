@@ -1,1 +1,0 @@
-Sistema mágico (círculos, espíritus, etc.)
