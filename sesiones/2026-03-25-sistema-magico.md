@@ -78,4 +78,3 @@ individuales.
 `historias/historia-principal/`.
 - `mundo/cosmologia.md`, `facciones.md`, `geografia.md`,
 `linea-de-tiempo.md` — todos vacíos.
-
